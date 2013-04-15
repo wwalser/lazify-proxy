@@ -1,0 +1,39 @@
+{
+  "name": "LazifyProxy",
+  "description": "Makes things lazy using ES Harmony Direct Proxy api.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wwalser/lazifyproxy",
+  "author": {
+    "name": "Wesley Walser",
+    "email": "waw325@gmail.com",
+    "url": "https://github.com/wwalser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/waw325/lazifyproxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wwalser/lazifyproxy/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/wwalser/lazify/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/Lazify",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "testing incoming."
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-contrib-concat": "~0.1.0",
+    "grunt-contrib-uglify": "~0.1.0",
+    "grunt": "~0.4.1"
+  },
+  "keywords": []
+}
