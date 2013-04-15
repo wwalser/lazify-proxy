@@ -27,14 +27,14 @@ lazyQuery.exec();
 For Browser:
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/wwalser/lazifyproxy/master/dist/Lazify.min.js
-[max]: https://raw.github.com/wwalser/lazifyproxy/master/dist/Lazify.js
+[min]: https://raw.github.com/wwalser/lazify-proxy/master/dist/LazifyProxy.min.js
+[max]: https://raw.github.com/wwalser/lazify-proxy/master/dist/LazifyProxy.js
 Same API, in a browser, you can figure it out.
 
 ## Documentation
 [Code][code] is the documentation for now.
 
-[code]: https://github.com/wwalser/lazifyproxy/blob/master/lib/Lazify.js
+[code]: https://github.com/wwalser/lazify-proxy/blob/master/lib/LazifyProxy.js
 
 ## Examples
 _(Coming soon)_

@@ -1,8 +1,8 @@
 {
   "name": "LazifyProxy",
-  "description": "Makes things lazy using ES Harmony Direct Proxy api.",
+  "description": "Makes things lazy using ES Harmony Direct Proxy API.",
   "version": "0.1.0",
-  "homepage": "https://github.com/wwalser/lazifyproxy",
+  "homepage": "https://github.com/wwalser/lazify-proxy",
   "author": {
     "name": "Wesley Walser",
     "email": "waw325@gmail.com",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/waw325/lazifyproxy.git"
+    "url": "git://github.com/waw325/lazify-proxy.git"
   },
   "bugs": {
-    "url": "https://github.com/wwalser/lazifyproxy/issues"
+    "url": "https://github.com/wwalser/lazify-proxy/issues"
   },
   "licenses": [
     {
